@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>10</string>
+					<key>StartingColumnNumber</key>
+					<string>11</string>
+					<key>StartingLineNumber</key>
+					<string>9</string>
+					<key>Timestamp</key>
+					<string>728328377.477234</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string></string>
+				<key>leading</key>
+				<string>import Foundation
+
+//Variables</string>
+				<key>trailing</key>
+				<string>
+var cereal = 100.00
+var milk = 100.00
+</string>
+			</dict>
+			<key>title</key>
+			<string>Variables</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>74</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>73</string>
+					<key>Timestamp</key>
+					<string>728412233.4077801</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>        //MAIN MENU CASE 1
+</string>
+				<key>leading</key>
+				<string>    //reads input
+    switch mainInp{
+</string>
+				<key>trailing</key>
+				<string>    case "1":
+        print("""
+    Please select one of the following items to add to your cart (type the number)
+</string>
+			</dict>
+			<key>title</key>
+			<string>Main Menu Case 1 (Add Cart)</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>177</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>176</string>
+					<key>Timestamp</key>
+					<string>728412233.407822</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>        //MAIN MENU CASE 2
+</string>
+				<key>leading</key>
+				<string>            print("not a valid num")
+        }
+</string>
+				<key>trailing</key>
+				<string>    case "2":
+        print("""
+    Please select one of the following items to remove from your cart (type the number)
+</string>
+			</dict>
+			<key>title</key>
+			<string>Main Menu Case 2 (Remove Cart)</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>277</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>276</string>
+					<key>Timestamp</key>
+					<string>728412233.407832</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>        //MAIN MENU CASE 3
+</string>
+				<key>leading</key>
+				<string>            print("not a valid num")
+        }
+</string>
+				<key>trailing</key>
+				<string>    case "3":
+            checkIndividStock()
+            mainMenu()
+</string>
+			</dict>
+			<key>title</key>
+			<string>Main Menu Case 3 (Check Stock)</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>282</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>281</string>
+					<key>Timestamp</key>
+					<string>728412233.407796</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>        //MAIN MENU CASE 4 (ADMIN MENU)
+</string>
+				<key>leading</key>
+				<string>            mainMenu()
+        
+</string>
+				<key>trailing</key>
+				<string>    case "4":
+        //The function is what helps to keep you in the admin menu until you're ready to leave it
+            print("""
+</string>
+			</dict>
+			<key>title</key>
+			<string>Main Menu Case 4 (Admin Menu)</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>303</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>302</string>
+					<key>Timestamp</key>
+					<string>728412233.407856</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                        //ADMIN MENU CASE 1
+</string>
+				<key>leading</key>
+				<string>                    switch adminMenu!{
+                        
+</string>
+				<key>trailing</key>
+				<string>                    case "1":
+                        print("""
+                        What would you like to restock? (type the number)
+</string>
+			</dict>
+			<key>title</key>
+			<string>Admin Menu Case 1</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>347</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>346</string>
+					<key>Timestamp</key>
+					<string>728412233.407868</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                        //ADMIN MENU CASE 2
+</string>
+				<key>leading</key>
+				<string>                        }
+                        
+</string>
+				<key>trailing</key>
+				<string>                    case "2":
+                        print("""
+                        Summary Report:
+</string>
+			</dict>
+			<key>title</key>
+			<string>Admin Menu Case 2</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>362</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>361</string>
+					<key>Timestamp</key>
+					<string>728412233.4078439</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                        //Admin Menu Case 3
+</string>
+				<key>leading</key>
+				<string>                        adminMenus()
+                        
+</string>
+				<key>trailing</key>
+				<string>                    case "3":
+                        checkIndividStock()
+                        adminMenus()
+</string>
+			</dict>
+			<key>title</key>
+			<string>Admin Menu Case 3</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>367</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>366</string>
+					<key>Timestamp</key>
+					<string>728412233.407809</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                        //ADMIN MENU CASE 4 (return to main)
+</string>
+				<key>leading</key>
+				<string>                        adminMenus()
+                        
+</string>
+				<key>trailing</key>
+				<string>                    case "4":
+                        print("Returning to main menu")
+                        mainMenu()
+</string>
+			</dict>
+			<key>title</key>
+			<string>Admin Menu Case 4</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>380</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>379</string>
+					<key>Timestamp</key>
+					<string>728412233.407751</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>swift1/main.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>        //MAIN MENU CASE 5 (Checkout)
+</string>
+				<key>leading</key>
+				<string>            }
+        
+</string>
+				<key>trailing</key>
+				<string>    case "5":
+        print("""
+            Thank you for shopping at SoupMart! Where we have Souper deals for soup and more!
+</string>
+			</dict>
+			<key>title</key>
+			<string>Main Menu Case 5 (Checkout)</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
